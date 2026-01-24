@@ -70,7 +70,7 @@
             A wordle-like game inspired in Yo-kai Watch.
         </p>
         <p>
-            <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
+            <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
         </p>
         <a href="https://github.com/mixel34p/Yo-kaidle"><strong>View Code</strong></a> | <a href="yokaidle.vercel.app"><strong>Play</strong></a>
       </td>
