@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1 align="center">Hi 👋, I'm Mixel34P</h1>
+  <h1 align="center">Hi 👋, I'm Mixel</h1>
   <h3 align="center">Game & App Developer from Spain.</h3>
 
   <br/>
