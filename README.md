@@ -1,3 +1,4 @@
+ <img src="[https://github.com/mixel34p/mixel34p/blob/main/images.jpg" alt="Banner" width="100%"/>
 <div align="center">
   
   <h1 align="center">Hi 👋, I'm Mixel</h1>
