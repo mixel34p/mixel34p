@@ -100,8 +100,4 @@
   
   <br/><br/>
   
-  <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=mixel34p&icon=5&color=2" alt="Visitors">
-  </p>
-
 </div>
