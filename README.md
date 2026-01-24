@@ -49,7 +49,7 @@
       <td width="50%" align="center">
         <h3> Pokémon ReShuffled</h3>
         <a href="LINK_TO_REPO_OR_GAME">
-            <img src="./shuffleimg" alt="Game 1" width="100%"/>
+            <img src="./shuffle_img" alt="Game 1" width="100%"/>
         </a>
         <br/><br/>
         <p>
@@ -57,9 +57,8 @@
         </p>
         <p>
             <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine"/>
-            <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/>
         </p>
-        <a href="LINK_TO_REPO"><strong>View Code</strong></a> | <a href="LINK_TO_ITCHIO"><strong>Play Demo</strong></a>
+        <a href="LINK_TO_REPO"><strong>View Code</strong></a>
       </td>
       <td width="50%" align="center">
         <h3>📱 App Name 2</h3>
