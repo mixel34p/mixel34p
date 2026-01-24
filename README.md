@@ -62,7 +62,7 @@
       </td>
       <td width="50%" align="center">
         <h3>Yo-kaidle</h3>
-        <a href="yokaidle.vercel.app">
+        <a href="https://yokaidle.vercel.app">
             <img src="./yokaidle_img.png" alt="App 2" width="100%"/>
         </a>
         <br/><br/>
@@ -72,7 +72,7 @@
         <p>
             <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
         </p>
-        <a href="https://github.com/mixel34p/Yo-kaidle"><strong>View Code</strong></a> | <a href="yokaidle.vercel.app"><strong>Play</strong></a>
+        <a href="https://github.com/mixel34p/Yo-kaidle"><strong>View Code</strong></a> | <a href="https://yokaidle.vercel.app"><strong>Play</strong></a>
       </td>
     </tr>
   </table>
