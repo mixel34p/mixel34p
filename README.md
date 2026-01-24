@@ -48,7 +48,7 @@
     <tr>
       <td width="50%" align="center">
         <h3> Pokémon ReShuffled</h3>
-        <a href="LINK_TO_REPO_OR_GAME">
+        <a href="https://github.com/mixel34p/pokemon-shuffle-ex">
             <img src="./shuffle_img.png" alt="Pokémon ReShuffled" width="100%"/>
         </a>
         <br/><br/>
@@ -58,21 +58,21 @@
         <p>
             <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine"/>
         </p>
-        <a href="LINK_TO_REPO"><strong>View Code</strong></a>
+        <a href="https://github.com/mixel34p/pokemon-shuffle-ex"><strong>View Code</strong></a>
       </td>
       <td width="50%" align="center">
-        <h3>📱 App Name 2</h3>
+        <h3>Yo-kaidle</h3>
         <a href="LINK_TO_REPO_OR_APP">
             <img src="https://placehold.co/600x300/1a1a1a/FFF?text=App+Screenshot" alt="App 2" width="100%"/>
         </a>
         <br/><br/>
         <p>
-            Description of your experimental app or tool. What problem does it solve?
+            A wordle-like game inspired in Yo-kai Watch.
         </p>
         <p>
             <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
         </p>
-        <a href="LINK_TO_REPO"><strong>View Code</strong></a>
+        <a href="https://github.com/mixel34p/yokaidle"><strong>View Code</strong></a>
       </td>
     </tr>
   </table>
