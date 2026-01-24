@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a calm developer from Spain who loves building games, apps, and experimental projects. <br>I enjoy exploring new technologies and turning ideas into interactive experiences.
+I'm a developer from Spain who loves building games, apps, and experimental projects. <br>I enjoy exploring new technologies and turning ideas into interactive experiences.
 
 
 ## 🌐 Socials:
