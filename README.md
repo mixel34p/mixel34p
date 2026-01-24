@@ -1,4 +1,4 @@
- <img src="./banner.gif" width="100%" alt="Banner" />
+ <img src="./animbanner.gif" width="100%" alt="Banner" />
 <div align="center">
   
   <h1 align="center">Hi, I'm Mixel</h1>
