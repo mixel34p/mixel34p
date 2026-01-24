@@ -62,8 +62,8 @@
       </td>
       <td width="50%" align="center">
         <h3>Yo-kaidle</h3>
-        <a href="LINK_TO_REPO_OR_APP">
-            <img src="https://placehold.co/600x300/1a1a1a/FFF?text=App+Screenshot" alt="App 2" width="100%"/>
+        <a href="yokaidle.vercel.app">
+            <img src="./yokaidle_img.png" alt="App 2" width="100%"/>
         </a>
         <br/><br/>
         <p>
