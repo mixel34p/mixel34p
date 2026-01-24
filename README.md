@@ -47,13 +47,13 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <h3>🎮 Game Title 1</h3>
+        <h3> Pokémon ReShuffled</h3>
         <a href="LINK_TO_REPO_OR_GAME">
             <img src="https://placehold.co/600x300/1a1a1a/FFF?text=Game+Screenshot" alt="Game 1" width="100%"/>
         </a>
         <br/><br/>
         <p>
-            A brief description of what this game is about. Is it a platformer? An RPG?
+            A fan-remake of the mobile game "Pokémon Shuffle".
         </p>
         <p>
             <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine"/>
