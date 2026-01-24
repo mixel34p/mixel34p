@@ -1,19 +1,7 @@
 <div align="center">
   
   <h1 align="center">Hi 👋, I'm Mixel34P</h1>
-  <h3 align="center">Game & App Developer from Spain 🇪🇸</h3>
-
-  <p align="center">
-    <a href="https://reddit.com/user/Mixel34P" target="_blank">
-      <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit" />
-    </a>
-    <a href="https://x.com/Mixel34P" target="_blank">
-      <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
-    </a>
-    <a href="https://itch.io/profile/mixel34p" target="_blank"> 
-      <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white" alt="Itch.io" />
-    </a>
-  </p>
+  <h3 align="center">Game & App Developer from Spain.</h3>
 
   <br/>
 
