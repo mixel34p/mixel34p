@@ -49,7 +49,7 @@
       <td width="50%" align="center">
         <h3> Pokémon ReShuffled</h3>
         <a href="LINK_TO_REPO_OR_GAME">
-            <img src="https://placehold.co/600x300/1a1a1a/FFF?text=Game+Screenshot" alt="Game 1" width="100%"/>
+            <img src="./shuffleimg" alt="Game 1" width="100%"/>
         </a>
         <br/><br/>
         <p>
@@ -72,7 +72,6 @@
         </p>
         <p>
             <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
-            <img src="https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34"/>
         </p>
         <a href="LINK_TO_REPO"><strong>View Code</strong></a>
       </td>
