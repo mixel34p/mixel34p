@@ -49,7 +49,7 @@
       <td width="50%" align="center">
         <h3> Pokémon ReShuffled</h3>
         <a href="LINK_TO_REPO_OR_GAME">
-            <img src="./shuffle_img" alt="Game 1" width="100%"/>
+            <img src="./shuffle_img.png" alt="Pokémon ReShuffled" width="100%"/>
         </a>
         <br/><br/>
         <p>
