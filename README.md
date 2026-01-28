@@ -79,7 +79,7 @@
   <br/>
   <h2>🛠️ Other Projects</h2>
 
-- **Yo-kai Watch API** – A public API with all Yo-kai, their tribe, favorite food, first game appearance, rank (bosses without official rank are S), and images. Data will be improved over time.  
+- 👻 **Yo-kai Watch API** – A public API with all Yo-kai, their tribe, favorite food, first game appearance, rank (bosses without official rank are S), and images. Data will be improved over time.  
   [View on GitHub](https://github.com/mixel34p/yokaiwatch-api)
   <br/>
 
