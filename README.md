@@ -16,26 +16,34 @@
   
   <table align="center">
     <tr>
-      <td align="center" width="33%"><b>Frontend & Mobile</b></td>
-      <td align="center" width="33%"><b>Game Dev</b></td>
-      <td align="center" width="33%"><b>Backend & Tools</b></td>
+      <td align="center" width="25%"><b>Languages</b></td>
+      <td align="center" width="25%"><b>Frontend & UI</b></td>
+      <td align="center" width="25%"><b>Game Dev & Design</b></td>
+      <td align="center" width="25%"><b>DevOps & Tools</b></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
-        <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine"/>
-        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB"/><br/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/React_Native-20232a?style=flat&logo=react&logoColor=61DAFB"/>
       </td>
       <td align="center">
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/><br/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34"/>
-        <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi"/>
-        <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
       </td>
     </tr>
   </table>
