@@ -55,28 +55,30 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <h3> Pokémon ReShuffled</h3>
+        <h3> 
+          Pokémon ReShuffled
+          <a href="https://github.com/mixel34p/pokemon-shuffle-ex/stargazers"><img src="https://img.shields.io/github/stars/mixel34p/pokemon-shuffle-ex?style=flat&label=%E2%AD%90" alt="stars"></a>
+        </h3>
         <a href="https://github.com/mixel34p/pokemon-shuffle-ex">
             <img src="./shuffle_img.png" alt="Pokémon ReShuffled" width="100%"/>
         </a>
         <br/><br/>
-        <p>
-            A fan-remake of the mobile game "Pokémon Shuffle".
-        </p>
+        <p>A fan-remake of the mobile game "Pokémon Shuffle".</p>
         <p>
             <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine"/>
-        </p>
+            </p>
         <a href="https://github.com/mixel34p/pokemon-shuffle-ex"><strong>View Code</strong></a>
       </td>
       <td width="50%" align="center">
-        <h3>Yo-kaidle</h3>
+        <h3>
+          Yo-kaidle
+          <a href="https://github.com/mixel34p/Yo-kaidle/stargazers"><img src="https://img.shields.io/github/stars/mixel34p/Yo-kaidle?style=flat&label=%E2%AD%90" alt="stars"></a>
+        </h3>
         <a href="https://yokaidle.vercel.app">
-            <img src="./yokaidle_img.png" alt="App 2" width="100%"/>
+            <img src="./yokaidle_img.png" alt="Yo-kaidle" width="100%"/>
         </a>
         <br/><br/>
-        <p>
-            A wordle-like game inspired in Yo-kai Watch.
-        </p>
+        <p>A wordle-like game inspired in Yo-kai Watch.</p>
         <p>
             <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
         </p>
