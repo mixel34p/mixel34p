@@ -7,7 +7,7 @@
   <br/>
 
   <p align="left">
-    I am a developer passionate about building <b>games, apps, and experimental projects</b>. I enjoy exploring new technologies (like Raspberry Pi and new game engines) and turning crazy ideas into interactive experiences.
+    I am a developer who loves developing games, apps, and other crazy stuff. I enjoy playing around with new technologies, such as Raspberry Pi and new game engines, and making games out of crazy ideas.
   </p>
 
   <br/>
